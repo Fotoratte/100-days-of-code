@@ -13,3 +13,10 @@
 **Thoughts:** The creating of excel-files is pretty easy. Maybe useful to now for later. And i really need to clean up that script.
 
 **Link to work:** See Folder Day 2
+
+### Day 2: 26. September, 2019
+**Today's Progress**: Finished working on the imdb-script. Added some useful cmd-parameter and done some refactoring.
+
+**Thoughts:** Refactoring was good. Still missing the error handling. Maybe later. Probably not tomorrow
+
+**Link to work:** See Folder Day 3
